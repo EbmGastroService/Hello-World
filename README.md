@@ -1,6 +1,3 @@
-echo "# Hello-World" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/EbmGastroService/Hello-World.git
-git push -u origin master
+Hello World
+Hier ist meine Erste Versuch seit meine Herzoperation
+Herzlichen Dank
